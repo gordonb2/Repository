@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=location
+comment1.target=Data(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Data\r\n\ \r\n\ @param\ location\ -\ the\ location\ of\ the\ excel\ spreadsheet\ file\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getTeams()
+comment2.text=\r\n\ Gets\ all\ of\ the\ teams\ in\ the\ NFL\r\n\ \r\n\ @return\ the\ teams\ in\ the\ NFL\ list\r\n
+comment3.params=team
+comment3.target=void\ addTeam(NFLTeam)
+comment3.text=\r\n\ Adds\ the\ specified\ team\r\n\ \r\n\ @param\ team\ -\ the\ team\ to\ add\r\n
+comment4.params=team
+comment4.target=void\ removeTeam(NFLTeam)
+comment4.text=\r\n\ Removes\ the\ specified\ team\r\n\ \r\n\ @param\ team\ -\ the\ team\ to\ remove\r\n
+comment5.params=
+comment5.target=void\ loadTeamData()
+comment5.text=\r\n\ Loads\ the\ teams\ and\ its\ players\ from\ the\ list\ at\ once\r\n
+comment6.params=
+comment6.target=Loader\ getLoader()
+comment6.text=\r\n\ Gets\ the\ loader\ instance\r\n\ \r\n\ @return\ the\ excel\ file\ loader\r\n
+comment7.params=name
+comment7.target=NFLTeam\ getTeam(java.lang.String)
+comment7.text=\r\n\ Gets\ a\ specific\ team\ with\ the\ specified\ name\r\n\ \r\n\ @param\ \ name\ -\ the\ name\ of\ the\ team\r\n\ @return\ the\ team\ you\ want\r\n
+numComments=8
