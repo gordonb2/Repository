@@ -3,8 +3,8 @@
 /**
  * Write a description of class NFLPlayer here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Joe Dunne (constructor), Joe Dementri (accessors),
+ * @version 0.1
  */
 public class NFLPlayer {
    
@@ -23,6 +23,17 @@ public class NFLPlayer {
     public NFLPlayer(String[] data) { 
         this.data = data;
     }
+    
+    
+    public void act() {
+        
+    }
+    
+    public void act2() {
+        
+    }
+    
+    
     /**
      * START OF ACCESSORS STATS ALL DONE, HAVE FUN SCROLLING
      * 
