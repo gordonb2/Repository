@@ -18,7 +18,7 @@ import java.io.*;
  
  
  
- public abstract class Statistic  
+ public abstract class Statistics  
  { 
  
  
@@ -28,7 +28,7 @@ import java.io.*;
  	private int receiving ; 
  	private int rushing ; 
  	 
- 	public Statistic(int interception, int fumble, int passing, int receiving, int rushing)  
+ 	public Statistics(int interception, int fumble, int passing, int receiving, int rushing)  
  	{ 
  		this.interception = interception; 
  		this.fumble = fumble; 
